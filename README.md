@@ -25,7 +25,7 @@
 </p>
 
 
-<p>আমার শিক্ষার সম্বন্ধে জানতে এখানে ক্লিক করুন : <a href="education.html"><button>click</button></a>
+<p>আমার শিক্ষার সম্বন্ধে জানতে এখানে ক্লিক করুন : <a href="education .html"><button>click</button></a>
 </p>
 
 
